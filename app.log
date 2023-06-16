@@ -1,0 +1,8 @@
+"docker run" requires at least 1 argument.
+See 'docker run --help'.
+
+Usage:  docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+
+Run a command in a new container
+a073ab94784bf3ade89ecfc66985fc885cabd3d39a682c6d3bc5ada7eb846573
+553c45b13b1ca328f7b4ba52774c6a3311d35f32fc1f67364a311118032b63ac

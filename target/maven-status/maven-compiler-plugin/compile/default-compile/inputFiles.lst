@@ -1,0 +1,5 @@
+/home/ubuntu/spring-boot-mysql-docker-compose/src/main/java/in/ashokit/controller/BookController.java
+/home/ubuntu/spring-boot-mysql-docker-compose/src/main/java/in/ashokit/Application.java
+/home/ubuntu/spring-boot-mysql-docker-compose/src/main/java/in/ashokit/binding/Book.java
+/home/ubuntu/spring-boot-mysql-docker-compose/src/main/java/in/ashokit/ServletInitializer.java
+/home/ubuntu/spring-boot-mysql-docker-compose/src/main/java/in/ashokit/repository/BookRepository.java
